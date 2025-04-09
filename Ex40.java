@@ -1,5 +1,5 @@
 /*
-Ex40-  exibir quantos litros ele conseguiu colocar no
+Ex40-  Exibir quantos litros ele conseguiu colocar no
 tanque.
 */
 import java.util.Scanner;
