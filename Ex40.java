@@ -1,6 +1,6 @@
 /*
-Ex40-  ler o nome e a idade de uma pessoa, e exibir quantos dias de vida
-ela possui
+Ex40-  exibir quantos litros ele conseguiu colocar no
+tanque.
 */
 import java.util.Scanner;
 public class Ex40
