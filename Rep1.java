@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Rep1
 {
 	public static void main(String[] args) {
-	int numImpar = 0;
+	int numImpar = 51;
 	int numPar = 0;
 	int num;
 	
